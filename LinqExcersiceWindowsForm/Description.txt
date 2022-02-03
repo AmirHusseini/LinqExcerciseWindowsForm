@@ -1,0 +1,30 @@
+﻿TASKS
+1.Show all movies that were released sometime during the 90's.
+
+2.Show all movies whose Actor list contains three actors (hint: for this you may need
+use the Count method)
+
+3.Show all films as where one of the actors in the film was older than 40 years when the film was made.
+
+4. Show all actors older than 50 years. Sort the actors by name.
+So you should bind the DataGridView control to a list of actors instead
+movies (which is not a problem, as it automatically generates the correct columns).
+
+5. Show all actors who have the letter "g" or "G" in their name. It should not play
+no matter if it is in uppercase or lowercase all should be displayed.
+
+6. Show to all actors only their name and age.
+
+7. View a list containing the movie title, director, and number of actors for each movie.
+
+Show for all movies, title and average age of the actors in the movie
+
+9. Produce all the films that were made during the 2000s and where the director's name is Martin
+Scorsese. Show only Title, release year and director.
+
+A little more difficult tasks
+
+10. Show all actors who are in more than one movie. Also show how many movies they are in.
+
+11. View all movies whose year is later than the average year for all movies. Sort
+the result of the year in ascending order.
